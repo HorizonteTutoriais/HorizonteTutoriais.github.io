@@ -6,7 +6,7 @@ const items = [
     "descricao": "📺🎬 Aplicativo oficial do site, totalmente grátis e compatível com celulares, Android TV, TV Box, Fire TV e dispositivos Android TV compatíveis.",
     "imagem": "https://i.postimg.cc/SN46CN8X/In-Shot-20260905-063544599.png",
     "data": "2026-08-23",
-    "download": "https://4br.me/BaixarHorizonTVCineAPK",
+    "download": "https://4br.me/BaixarHorizonTvCineApk",
     "downloads": null,
     "guia_link": "https://4br.me/BaixarGuiaHorizonTvCine",
     "tutorial": "#",
